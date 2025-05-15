@@ -1,6 +1,6 @@
 # GoFind 🌍
 
-**Une plateforme tout-en-un pour la vérification d'objets volés, le covoiturage et la location de logements**
+**Une plateforme tout-en-un pour la vérification d'objets volés, le covoiturage et la recherche de logements**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PHP Version](https://img.shields.io/badge/PHP-8.x-purple.svg)](https://php.net)
@@ -55,4 +55,3 @@
 - [XAMPP](https://www.apachefriends.org/fr/download.html)
 - PHP 8.x
 - MySQL 5.7+
-#
